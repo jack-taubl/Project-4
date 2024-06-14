@@ -1,0 +1,2 @@
+There is no code reuse in this program, this is an origional program that 
+I was able to write. There are plently of examples of how to created a Linked List structure online, however I was able to create an origional program without taking examples from online.
